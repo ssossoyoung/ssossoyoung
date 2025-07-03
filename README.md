@@ -1,6 +1,8 @@
 # Hi there! <img src="https://raw.githubusercontent.com/igorantun/igorantun/main/wave.gif" width="30">
 
-I'm Igor, a Senior Software Engineer with 8 years of experience. Mostly specialized in Node.js (TypeScript), React and AWS, with a proven record in both seed stage startups and IPO’d enterprises. Lifelong learner with deep expertise in fintechs and system architecture.
+Hi There. 
+I'm from South Korea and live in Tokyo, Japan.
+I came to Japan in 2012 and have over 15 years of experience in design.
 
 [![LinkedIn](https://img.shields.io/badge/-igorantun-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/igorantun/)](https://www.linkedin.com/in/igorantun/)
 [![Gmail](https://img.shields.io/badge/-igor@antun.me-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:igor@antun.me)](mailto:igor@antun.me)
