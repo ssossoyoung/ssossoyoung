@@ -4,10 +4,6 @@ Hi There.
 I'm from South Korea and live in Tokyo, Japan.
 I came to Japan in 2012 and have over 15 years of experience in design.
 
-[![LinkedIn](https://img.shields.io/badge/-igorantun-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/igorantun/)](https://www.linkedin.com/in/igorantun/)
-[![Gmail](https://img.shields.io/badge/-igor@antun.me-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:igor@antun.me)](mailto:igor@antun.me)
-[![Website](https://img.shields.io/badge/-igorantun.com-006cff?style=flat&logo=safari&link=https://igorantun.com/)](https://igorantun.com/)  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=igorantun.igorantun&right_color=black)
 
 ### Technologies
 
